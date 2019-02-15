@@ -1,6 +1,12 @@
 # My learning track
 Since 5 February 2019
 
+# 14-15 February 2019
+finished learning react and simple project meme generator on scrimba.com
+- learn how to use `componentDidmount()` to access api 
+- form part eg. checkbox radion select+option
+
+
 # 13 February 2019
 still learing react on scrimba.com and didnt get how lifecycle works. 
 But i will be back again.
