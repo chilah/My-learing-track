@@ -3,7 +3,7 @@ Since 5 February 2019
 
 # 16-17 February 2019
 - learn to use git and github 🤖
-- fixied code and comment paper-scissors-rock project
+- fixed code and comment on paper-scissors-rock project
 
 # 14-15 February 2019
 finished learning react and simple project meme generator on scrimba.com
