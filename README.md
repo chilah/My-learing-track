@@ -1,8 +1,8 @@
-# My learning track
+# My learning track 🌈
 Since 5 February 2019
 
 # 16-17 February 2019
-- learn to use git and github 
+- learn to use git and github 🤖
 - fixied code and comment paper-scissors-rock project
 
 # 14-15 February 2019
