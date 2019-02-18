@@ -9,13 +9,13 @@ learning JS30 by wesbos. Css variable
 
 # 16-17 February 2019
 - learn to use git and github 🤖
-- upload, fixed code and comment on paper-scissors-rock project
+- fixed code, comment and upload on paper-scissors-rock project
 
 # 14-15 February 2019
 finished learning react and simple project meme generator on scrimba.com
-- learn how to use `componentDidmount()` to access api 
-- form part eg. checkbox radion select+option
+- learn how to use `componentDidmount()` to access api
 - how to get input from user through form part
+- form part eg. checkbox radion select+option
 
 # 13 February 2019
 still learing react on scrimba.com and didnt get how lifecycle works. 
