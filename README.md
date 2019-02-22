@@ -1,6 +1,10 @@
 # 📅 My learning track 
 Since 5 February 2019
 
+# 21-22 February 2019
+- building project from Frontend challenge Fylo landing page with dark theme
+- got an email from chingu to prepare for voyage 8 project
+
 # 18 February 2019
 learning JS30 by wesbos. Css variable
 - use `data-` to define a custom data on element
