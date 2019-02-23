@@ -1,6 +1,10 @@
 # 📅 My learning track 
 Since 5 February 2019
 
+# 23 February 2019
+- Fylo landing page mobile version is done
+- Now its time to make responsive for a desktop version ✌
+
 # 21-22 February 2019
 - building project from Frontend challenge Fylo landing page with dark theme
 - got an email from chingu to prepare for voyage 8 project
