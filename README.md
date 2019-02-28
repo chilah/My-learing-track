@@ -6,7 +6,7 @@ Since 5 February 2019
 - Add go top button by JS
 
 # 26 February 2019
-- Building solo project prework for Chingu voyage 8
+- Build solo project prework for Chingu voyage 8
 - First time Pair Programing with Eri.
 
 # 23 February 2019
