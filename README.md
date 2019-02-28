@@ -1,6 +1,14 @@
 # 📅 My learning track 
 Since 5 February 2019
 
+# 28 February 2019
+- Add animation on landing page by CSS
+- Add go top button by JS
+
+# 26 February 2019
+- Building solo project prework for Chingu voyage 8
+- First time Pair Programing with Eri.
+
 # 23 February 2019
 - Fylo landing page mobile version is done
 - Now its time to make responsive for a desktop version ✌
