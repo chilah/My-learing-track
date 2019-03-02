@@ -1,6 +1,10 @@
 # 📅 My learning track 
 Since 5 February 2019
 
+# 1 March 2019
+- Add feature scroll smooth when click on the navbar. 👊
+- Pair Programming challenge on Codewar with Eri. 😁 
+
 # 28 February 2019
 - Add animation on landing page by CSS
 - Add go top button by JS
