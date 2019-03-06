@@ -3,7 +3,7 @@ Since 5 February 2019
 
 # 5 March 2019
 After finish Prework session 👀 i got back to React again and It still make me confused 🤣
-- When using a stateless function component DONT FORGET to add `props` as a parameter
+- When using a stateless function component DONT FORGET to add `props` as argument
 - NO `this.props` ✍ in stateless function component
 
 # 1 March 2019
