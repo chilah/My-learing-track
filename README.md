@@ -1,6 +1,10 @@
 # 📅 My learning track 
 Since 5 February 2019
 
+# 19 April 2019 🏍
+- Learn to setup webpack, babel, react and etc.
+- Build a calculator project by react.
+
 # 5 March 2019
 After finish Prework session 👀 i got back to React again and It still make me confused 🤣
 - When using a stateless function component DONT FORGET to add `props` as argument
